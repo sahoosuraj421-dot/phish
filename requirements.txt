@@ -1,0 +1,4 @@
+streamlit
+joblib
+tldextract
+scikit-learn
